@@ -1,0 +1,25 @@
+## Interface: 16001
+## Title: CDM Customizer
+## Notes: Resize Cooldown Manager icons, add any spell/item to it, plus two extra cooldown groups.
+## Author: Risaro
+## Version: 0.1.0
+## SavedVariables: CDMCustomizerDB
+## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
+## Category: Combat
+
+Core\Init.lua
+Core\DB.lua
+Core\Compat.lua
+Core\Entries.lua
+Display\Crop.lua
+Display\IconFrame.lua
+Display\CooldownUpdater.lua
+Display\GridLayout.lua
+Display\NativeViewers.lua
+Display\AdditionalGroups.lua
+EditMode\EditModeOverlay.lua
+EditMode\EditModePanel.lua
+Settings\Widgets.lua
+Settings\EntryPicker.lua
+Settings\SettingsTab.lua
+Slash.lua
